@@ -75,6 +75,13 @@ The dataset contains employee-level information with the following key columns:
 - **DAX (Data Analysis Expressions)** — Custom measures & KPIs
 - **Power Query** — Data cleaning & transformation
 
+ 🚀 How to Use
+
+- **Clone or download this repository**
+- **Open .pbit in Power BI Desktop**
+- **When prompted, select the CSV file path**
+- **Explore the dashboard — use the slicers to filter and analyze different views**
+
 ---
 
 ## 📊 Key Insights
@@ -87,7 +94,7 @@ The dataset contains employee-level information with the following key columns:
 
 ---
 
-Dashboard Preview: (https://github.com/AryanInsights/HR-Analytics-Dashboard/blob/main/Snapshot%20of%20Dashboard.png)
+![Dashboard Preview]([images/dashboard.png](https://github.com/AryanInsights/HR-Analytics-Dashboard/blob/main/Snapshot%20of%20Dashboard.png))
 
 ## 📃 License
 
