@@ -94,7 +94,8 @@ The dataset contains employee-level information with the following key columns:
 
 ---
 
-![Dashboard Preview]([images/dashboard.png](https://github.com/AryanInsights/HR-Analytics-Dashboard/blob/main/Snapshot%20of%20Dashboard.png))
+## 📊 Dashboard Preview
+![Dashboard](Snapshot_of_Dashboard.png)
 
 ## 📃 License
 
